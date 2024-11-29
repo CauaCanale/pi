@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+
+    font-family: Arial, sans-serif;
+}
+
+.cadastro{
+    background: url(../img/cadastro.png);
+    background-size: cover;
+    height: 100%;
+    display: flex;
+    text-align: center;
+    
+}
+
+div h2{
+    color: red;
+}
+
+.img{
+    height: 1200%;
+}
